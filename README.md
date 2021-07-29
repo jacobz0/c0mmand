@@ -2,7 +2,7 @@
 A command prompt I made using 100% Python. It allows you to do things in Terminal but just made simpler(**hopefully**)
 ### **Requirements**  
 **Python Version**  
-Python 3.8.2 installed on your computer. (**you can try other versions at your own risk**)  
+Python 3.8.2 installed on your computer. (**you can try other versions at your own risk**)  You can download it from here https://www.python.org/ftp/python/3.8.2/python-3.8.2-amd64.exe. For Mac users https://www.python.org/ftp/python/3.8.2/python-3.8.2-macosx10.9.pkg 
 
 **Windows Support**  
 Windows Vista or newer  
