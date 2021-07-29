@@ -9,7 +9,7 @@ Windows Vista or newer
 If your on Windows XP or older you can try to install anything older than Python 3.5 but it is not guaranteed to work.
 
 **Mac Support**  
-Currently untested(**You can anyways**)
+Currently untested(**You can try anyways**)
 
 **Bugs**  
 If you find any bugs please report them in the "issues" column
